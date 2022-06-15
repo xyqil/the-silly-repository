@@ -1,1 +1,1 @@
-print("wowza! this is kinda silly.")
+print("wowza! this is NOT silly!")
